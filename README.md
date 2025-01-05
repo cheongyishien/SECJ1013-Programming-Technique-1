@@ -15,7 +15,7 @@ Answering the lab test question provide a deeper understanding of the programmin
 
 
 # Assignments
-[Click here for assignments](Group assignment)
+[Click here for assignments](Group assignment).
 
 Reflection
 
